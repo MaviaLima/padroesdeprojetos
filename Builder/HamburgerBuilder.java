@@ -3,7 +3,6 @@ package Builder;
 public class HamburgerBuilder extends SanduicheBuilder {
 
 	private Sanduiche sanduiche = new Hamburger();
-
 	
 	public void abrePao() {
 		  System.out.println("Abre pão de hamburguer.");		

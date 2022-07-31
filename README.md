@@ -20,5 +20,10 @@ Projeto para montagem de modelos de padrões de projetos GoF
   
   **Builder** - Separar a construção de um objeto complexo da sua representação de modo que o mesmo processo de construção possa criar diferentes representações. Possui intensão de incapsular processos complexos de montagem de objetos.
   
+  **Prototype** - Especificar os tipos de objetos a serem criados usando uma instância protótipo e criar novos objetos pela cópia deste protótipo.
+  Instância inicilizada a ser copiada ou clonada. Fazer clones de objetos.
+  
+  Iremos implementar diversas notas musicais que serão clonadas numa partitura
+  
   
 
